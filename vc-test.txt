@@ -1,4 +1,0 @@
-this is our first file under vc
-this is our first change
-this is our 2nd change
-blah blah blah
